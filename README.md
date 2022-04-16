@@ -1,5 +1,7 @@
 # react-random-number-generator
-This is an example implementation of a random number generator in React. It was created using *create-react-app* and reuses most of the code and styles from the generated project.
+This is an example implementation of a random number generator in React. It was created using *create-react-app* and reuses most of the code and styles from the generated project. Feel free to also check out:
+* Our [YouTube Video](https://youtu.be/_PepQeX7J0w), where we code this in real time with music.
+* Our [Dev Page](https://bytethisstore.com/articles/pg/react-tutorial-random-number-generator), where we cover this in more detail.
 
 ## Example Requirements
 We're going to create a random number generator which behaves as follows:
